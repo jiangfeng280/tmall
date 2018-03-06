@@ -1,6 +1,6 @@
 package com.shsxt.demo;
 
-public class Welcome {
+public class Hello {
 	
 	public static void  main (String[] args) {
 		
